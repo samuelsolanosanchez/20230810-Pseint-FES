@@ -4,6 +4,6 @@ Algoritmo ejercicio_05
 	num = 1
 	Mientras num<=100 Hacer
 	    Escribir num
-		num = num + 3
+		num = num + 1
 	FinMientras
 FinAlgoritmo
